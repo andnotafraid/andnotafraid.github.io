@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "ssh"
+date:   2016-12-23 11:56:21 -0600
+categories: git ssh
+---
+<a id="top"></a>
+# ssh
+
+SSH keys are a way for a local machine to connect securely to a remote machine.  The keys ccome in pairs -- a private key and a public key.  The private key is kept on the local machine and the public key is given to the remote machine to which the user wants to connect.
+
+SSH keys are used with git to securely transfer code.
+
+Topics:
+
+* [Create SSH](#create-ssh)
+* [Add to Github](#github)
+* [Table of useful commands](#commands)
+
+<a id="create-ssh"></a>
+## Create SSH [top](#top)
+
+This is how to do it on OSX.  Likely, you should be in the ~/.ssh directory. If you do it in another directory, you can just move them to the ~/.ssh directory later:
+
+```
+ssh-keygen
+```
+It will prompt you to enter a file name.  This will be the name of the keypair.  It will also prompt to enter a 'passphrase'.  This is a password on the ssh key itself.  Unless you really need to, you can leave it blank.  If you enter one and forget it, you'll have to start all over.
+
+It will make some squiggles on the screen that look like this:
+![sha squiggles]({{ site.url }}{{site.baseurl}}/assets/images/sha-squiggles.png)
+
+To copy this key to the pastebin, you can use this little trick (assuming you named the key `first`):
+```
+cat ~/.ssh/first.pub | pbcopy
+```
+Afterwards, you can insert it where you want it by using CMD-v.
+
+<a id="github"></a>
+## Add to Github [top](#top)
+
+To use the key with github, log in to your github account and add the key:
+```
+Profile > Settings > SSH and GPG keys > New SSH key
+```
+Enter a title the same as the name of the ssh key.  Paste the key into the Key field and click "Add SSH key".
+
+<a id="commands"></a>
+## Table of useful commands [top](#top)
+
+
+| Command | What it’s for |
+|--- | --- |
+| ssh -v | This will tell you if ssh is installed |
+| ls -a ~/.ssh | Lists ssh keys |
+| ssh-keygen | Generates an ssh key (enter a passphrase and remember it |
+| ps -e &#124; grep ssh&#45;agent | Checks is ssh-agent is running.  If it is, you will get a process key |
+| ssh-add -l | Check to see if your key is added.  If it says ‘The agent has no identities’, you need to add your key |
+| cat ~/.ssh/id_rsa.pub | Places contents of id_rsa in pastebin |
+{:.mbtablestyle}
