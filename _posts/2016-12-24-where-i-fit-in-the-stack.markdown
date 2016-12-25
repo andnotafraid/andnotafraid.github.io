@@ -12,7 +12,7 @@ In the distant past I built lovely little applications using VB.Net and SQL Serv
 
 I used to think the phrase "full stack developer" was a good one.  However, knowing and mastering every part of the "stack" is getting more complex.
 
-![full stack skills]({{ site.url }}{{site.baseurl}}/assets/images/stack.png)
+![full stack skills]({{ site.url }}{{site.baseurl}}/assets/images/Stack2Stack.png)
 
 Reading [this article](http://andyshora.com/full-stack-developers.html) by Andy Shora prompted me to think about whether I wanted to identify myself as a full stack developer:
 
