@@ -5,8 +5,6 @@ date:   2016-12-23 11:56:21 -0600
 categories: git ssh
 ---
 <a id="top"></a>
-# ssh
-
 SSH keys are a way for a local machine to connect securely to a remote machine.  The keys ccome in pairs -- a private key and a public key.  The private key is kept on the local machine and the public key is given to the remote machine to which the user wants to connect.
 
 SSH keys are used with git to securely transfer code.
