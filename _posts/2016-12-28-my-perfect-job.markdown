@@ -9,7 +9,7 @@ If I found the perfect job, what would that look like?  How would I contribute t
 
 I work for a company that has very useful and profitable products&#8212;ideally SaaS.  This company has a growth path outlined that depends on high-quality, well-documented code.
 
-I work from home on a Mac.  I muck about with the data and write APIs supported by well-tested queries.  I write very clear and understandable documentation for these APIs and publish it on a Jekyll site using markdown.  I have access to the company's AWS account, and I work with DevOps&#8212;gradually improving and automating the deployment of applications.  I write easily understood documentation for the DevOps.  I have *lots* of work to do.
+I work from home on a Mac.  I muck about with the data and write APIs supported by well-tested queries.  I write very clear and understandable documentation for these APIs and publish it on a Jekyll site using markdown.  I have access to the company's AWS account, and I work with DevOps&#8212;gradually improving and automating the deployment of applications.  I generate clear DevOps direction, but probably not in markdown, since I like to "color-code" DevOps directions.  I have *lots* of work to do.
 
 I work when I'm most productive, which may not be from 9 to 5.  When I have a creative block, I take a break.  When I've got a good idea and the code is just flowing out of my pores, I work all night.
 
