@@ -27,7 +27,6 @@ linkedin_username: amnotafraid
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
