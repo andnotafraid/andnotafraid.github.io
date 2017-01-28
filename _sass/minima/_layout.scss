@@ -4,24 +4,30 @@
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
-  min-height: 56px;
+  min-height: 80px;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
-  font-family: 'Covered By Your Grace', cursive;
-  font-size: 12px;
+  font-family: 'Condiment', cursive;
+  font-size: 48px;
   font-weight: 300;
-  line-height: 56px;
+  line-height: 80px;
   letter-spacing: -1px;
+  color: darken($brand-color, 10%); 
   margin-bottom: 0;
   float: left;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: DarkCyan;
+    text-decoration: none;
+  }
+  &:hover {
+    color: $brand-color;
+    text-decoration: none;
   }
 }
 
