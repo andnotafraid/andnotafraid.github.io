@@ -4,18 +4,8 @@ title: About
 permalink: /about/
 ---
 
+My name is **Bessie Malek**.  I live and code in **Dallas, TX**, but I'm originally from Illinois.  Not the Chicago part.  The other part where they grow corn.
 
-These are the topics that I plan to write about in this blog:
+I build web and database applications.  I like the ability to organize data and to make something useful.  I have developed applications from the ground up using PHP and MySQL.  Recently, I built an application using Node.js and Mongo and Angular, and I really liked the challenge.  I hope that I have an opportunity to do more with this technology.
 
-* git
-* JavaScript
-* Grunt
-* AngularJS
-* Mongo and Mongoose
-* Node
 
-It would be cool if I had a description of what a full stack developer does with a graphic showing the different areas of the full stack.
-
-Oo!  And what about a resume?  And samples of code?
-
-For today, I would be happy to get this out to github.
