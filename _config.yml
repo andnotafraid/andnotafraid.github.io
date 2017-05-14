@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Andnotafraid ...
+title: Amnotafraid ...
 subtitle: of the learning curve
 email: amnotafraid@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  These are how-to instructions for the full stack developer,
-  everything from git to sass to CentOS...
+  My name is Bessie.  I live in Dallas, TX USA.  I develop data-driven
+  web applications, and I like to work with Node.js.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  amnotafraid
