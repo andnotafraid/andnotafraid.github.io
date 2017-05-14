@@ -5,6 +5,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: 80px;
+  background-color: lighten($grey-color, 42%);
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -12,7 +13,7 @@
 
 .site-title {
   font-family: 'Condiment', cursive;
-  font-size: 48px;
+  font-size: 48px; 
   font-weight: 300;
   line-height: 80px;
   letter-spacing: -1px;
@@ -31,9 +32,19 @@
   }
 }
 
+.site-sub-title {
+  line-height: 80px;
+}
+
+.copyright-line {
+  font-size: 0.75em;
+  display: block;
+  text-align: center;
+}
+
 .site-nav {
   float: right;
-  line-height: 56px;
+  line-height: 36px;
 
   .menu-icon {
     display: none;

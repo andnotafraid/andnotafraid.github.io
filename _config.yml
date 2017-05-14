@@ -21,6 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   web applications, and I like to work with Node.js.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+code_url: https://github.com/andnotafraid/andnotafraid.github.io
 github_username:  amnotafraid
 linkedin_username: amnotafraid
 
