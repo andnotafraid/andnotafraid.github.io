@@ -18,7 +18,7 @@ Reading [this article](http://andyshora.com/full-stack-developers.html) by Andy 
 
 >At the level of a senior full-stack engineer we're perhaps talking about architecting a modular Backbone/AngularJS front-end whilst optimising content delivery and tweaking hardware accelerated layers in CSS, followed by implementing an async non-blocking backend (which also pre-renders templates on the server), and pushing to an AWS cluster which has been built with security and scaleability in mind. Not to mention design. Designing UI responsively and mobile-first is essential, utilising a CSS pre-processor to save time. And remember to setup Nagios for monitoring. Oh, and ideally when the Continuous Integration server detects a bad build because your end-to-end tests have failed, get it to send you an SMS with the build error messages. Well, the last two are probably for bonus points.
 
-Can I, with any sense of honesty, claim that I have mastered all of that?  No.
+Can I, with any sense of honesty (modesty?), claim that I have mastered all of that?  No.
 
 What am I good at?  I know already.  I'm good at data.  I'm good at designing the data and the web service that delivers them.  In addition, I like to write documentation.  Not all developers do, but if you have somebody building APIs for other developers to use, it sure comes in handy to have somebody who is willing to document that stuff.
 
