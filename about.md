@@ -10,7 +10,7 @@ I build web and database applications.  I like the ability to organize data and 
 
 ![career timeline]({{ site.url }}{{site.baseurl}}/assets/images/CareerTimeline.png)
 
-I like developing in Node.js the best because of NPM--free code that gets shared and re-used.
+I like developing in *Node.js*{: style="color: red"} the best because of NPM--free code that gets shared and re-used.
 
 My current goal is getting AWS Solution Architect certified.  Code that's never deployed to a server is boring...
 
