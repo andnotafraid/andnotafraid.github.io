@@ -15,13 +15,15 @@ My career objective is to model data in MongoDB, design REST APIs to access that
 * Backend:		Node, Express
 * Database:		Mongo, Mongoose, MySQL, Doctrine
 * Node specific:		Passport, Socket.io, nvm, jsonwebtoken, fast-csv, nodemailer
+* npm packages: [list2shrink](https://www.npmjs.com/package/list2shrink), [magento2-client](https://www.npmjs.com/package/magento2-client), [shipperhq-client](https://www.npmjs.com/package/shipperhq-client)
 * Build Tools:		Grunt, Gulp
-* Languages:		JavaScript, TypeScript, ES6, PHP
+* Languages:		JavaScript, TypeScript, PHP
 * Version Control:	git
 * Miscellaneous:	Slack, Atlassian tools (Jira, BitBucket, Confluence)
 * Dev Environment:	Windows, Mac (preferred), Linux
 * Web Services:		Lots of REST and a little SOAP (sounds like a cold remedy)
-* Servers:		CentOS and other Linux variants, AWS
+* Servers:		CentOS and other Linux variants
+* AWS:   I am **very good** at hosting micro-services using a particular AWS AMI.  Eager to know more.
 * SDLC:			Analysis, Coordination, Programming, Quality Assurance, Revision Control
 
 
