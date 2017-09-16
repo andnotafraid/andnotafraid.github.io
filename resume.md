@@ -40,6 +40,7 @@ My career objective is to model data in MongoDB, design REST APIs to access that
 # Work History
 
 | __MEAN Stack Developer__ | [Razoyo](https://www.razoyo.com/) – The Colony, TX |
+| ------------- |:-------------:| -----:|
 | | Oct, 2015 - Sep, 2017 |
 | | Mongo, Express, AngularJS, Node, Magento |
 
